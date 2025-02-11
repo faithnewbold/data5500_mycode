@@ -1,0 +1,17 @@
+{
+    "State": "MI",
+    "Average Number of Cases": 1763.5967741935483,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201127,
+        "Cases": 17368
+    },
+    "Last Day with No Positive Cases": 20210307,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "November 2020",
+        "Cases": 191536
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "June 2020",
+        "Cases": 7160
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "State": "IL",
+    "Average Number of Cases": 3247.509485094851,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201113,
+        "Cases": 15415
+    },
+    "Last Day with No Positive Cases": 20200311,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "November 2020",
+        "Cases": 309745
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 5990
+    }
+}

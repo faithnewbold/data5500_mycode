@@ -1,0 +1,17 @@
+{
+    "State": "PA",
+    "Average Number of Cases": 2563.9,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201205,
+        "Cases": 12884
+    },
+    "Last Day with No Positive Cases": 20201003,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "December 2020",
+        "Cases": 278861
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 4843
+    }
+}

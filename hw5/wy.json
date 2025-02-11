@@ -1,0 +1,17 @@
+{
+    "State": "WY",
+    "Average Number of Cases": 147.21505376344086,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201123,
+        "Cases": 1262
+    },
+    "Last Day with No Positive Cases": 20210307,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "November 2020",
+        "Cases": 20007
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 109
+    }
+}

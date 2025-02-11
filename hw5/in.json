@@ -1,0 +1,17 @@
+{
+    "State": "IN",
+    "Average Number of Cases": 1779.3653333333334,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201203,
+        "Cases": 8460
+    },
+    "Last Day with No Positive Cases": 20200313,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "December 2020",
+        "Cases": 172508
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "February 2020",
+        "Cases": 0
+    }
+}

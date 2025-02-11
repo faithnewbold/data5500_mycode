@@ -1,0 +1,17 @@
+{
+    "State": "WI",
+    "Average Number of Cases": 1680.1459459459459,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201118,
+        "Cases": 8510
+    },
+    "Last Day with No Positive Cases": 20201018,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "November 2020",
+        "Cases": 173860
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 1585
+    }
+}

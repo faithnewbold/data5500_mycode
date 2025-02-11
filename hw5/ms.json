@@ -1,0 +1,17 @@
+{
+    "State": "MS",
+    "Average Number of Cases": 813.0628415300547,
+    "Date with Highest Number of New Cases": {
+        "Date": 20210107,
+        "Cases": 3255
+    },
+    "Last Day with No Positive Cases": 20201025,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "December 2020",
+        "Cases": 62541
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 937
+    }
+}

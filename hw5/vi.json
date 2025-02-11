@@ -1,0 +1,17 @@
+{
+    "State": "VI",
+    "Average Number of Cases": 7.599439775910364,
+    "Date with Highest Number of New Cases": {
+        "Date": 20210117,
+        "Cases": 94
+    },
+    "Last Day with No Positive Cases": 20210307,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "August 2020",
+        "Cases": 728
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "May 2020",
+        "Cases": 3
+    }
+}

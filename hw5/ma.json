@@ -1,0 +1,17 @@
+{
+    "State": "MA",
+    "Average Number of Cases": 1438.8223844282238,
+    "Date with Highest Number of New Cases": {
+        "Date": 20210102,
+        "Cases": 9003
+    },
+    "Last Day with No Positive Cases": 20210101,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "December 2020",
+        "Cases": 149046
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "February 2020",
+        "Cases": 0
+    }
+}

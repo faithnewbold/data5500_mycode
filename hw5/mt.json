@@ -1,0 +1,17 @@
+{
+    "State": "MT",
+    "Average Number of Cases": 275.72131147540983,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201114,
+        "Cases": 1642
+    },
+    "Last Day with No Positive Cases": 20210101,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "November 2020",
+        "Cases": 29397
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "May 2020",
+        "Cases": 62
+    }
+}

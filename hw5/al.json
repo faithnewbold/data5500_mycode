@@ -1,0 +1,17 @@
+{
+    "State": "AL",
+    "Average Number of Cases": 1365.6256830601094,
+    "Date with Highest Number of New Cases": {
+        "Date": 20210105,
+        "Cases": 5498
+    },
+    "Last Day with No Positive Cases": 20210130,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "December 2020",
+        "Cases": 111702
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 981
+    }
+}

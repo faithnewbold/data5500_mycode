@@ -1,0 +1,17 @@
+{
+    "State": "AS",
+    "Average Number of Cases": 0.0,
+    "Date with Highest Number of New Cases": {
+        "Date": null,
+        "Cases": 0
+    },
+    "Last Day with No Positive Cases": 20210307,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": null,
+        "Cases": 0
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2021",
+        "Cases": 0
+    }
+}

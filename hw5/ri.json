@@ -1,0 +1,17 @@
+{
+    "State": "RI",
+    "Average Number of Cases": 346.1801075268817,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201212,
+        "Cases": 1831
+    },
+    "Last Day with No Positive Cases": 20200802,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "December 2020",
+        "Cases": 32818
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 566
+    }
+}

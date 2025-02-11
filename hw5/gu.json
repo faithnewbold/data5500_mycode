@@ -1,0 +1,17 @@
+{
+    "State": "GU",
+    "Average Number of Cases": 21.69747899159664,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201109,
+        "Cases": 240
+    },
+    "Last Day with No Positive Cases": 20210307,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "October 2020",
+        "Cases": 2193
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2021",
+        "Cases": 13
+    }
+}

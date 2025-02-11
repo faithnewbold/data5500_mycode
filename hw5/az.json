@@ -1,0 +1,17 @@
+{
+    "State": "AZ",
+    "Average Number of Cases": 2239.7073170731705,
+    "Date with Highest Number of New Cases": {
+        "Date": 20210103,
+        "Cases": 17234
+    },
+    "Last Day with No Positive Cases": 20200315,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "January 2021",
+        "Cases": 238197
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 1287
+    }
+}

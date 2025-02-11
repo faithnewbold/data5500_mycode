@@ -1,0 +1,17 @@
+{
+    "State": "VT",
+    "Average Number of Cases": 43.46756756756757,
+    "Date with Highest Number of New Cases": {
+        "Date": 20210102,
+        "Cases": 277
+    },
+    "Last Day with No Positive Cases": 20210101,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "January 2021",
+        "Cases": 4553
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "May 2020",
+        "Cases": 115
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "State": "NE",
+    "Average Number of Cases": 524.6149870801033,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201117,
+        "Cases": 3440
+    },
+    "Last Day with No Positive Cases": 20210117,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "November 2020",
+        "Cases": 56821
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "February 2020",
+        "Cases": 0
+    }
+}

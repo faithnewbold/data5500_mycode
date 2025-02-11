@@ -1,0 +1,17 @@
+{
+    "State": "ND",
+    "Average Number of Cases": 274.29234972677597,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201114,
+        "Cases": 2329
+    },
+    "Last Day with No Positive Cases": 20210101,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "November 2020",
+        "Cases": 36485
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 117
+    }
+}

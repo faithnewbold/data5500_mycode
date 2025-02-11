@@ -1,0 +1,17 @@
+{
+    "State": "SC",
+    "Average Number of Cases": 1425.108401084011,
+    "Date with Highest Number of New Cases": {
+        "Date": 20210103,
+        "Cases": 8951
+    },
+    "Last Day with No Positive Cases": 20210101,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "January 2021",
+        "Cases": 135879
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 1083
+    }
+}

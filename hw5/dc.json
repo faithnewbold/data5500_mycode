@@ -1,0 +1,17 @@
+{
+    "State": "DC",
+    "Average Number of Cases": 112.55163043478261,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201227,
+        "Cases": 492
+    },
+    "Last Day with No Positive Cases": 20201225,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "January 2021",
+        "Cases": 7889
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 495
+    }
+}

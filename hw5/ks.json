@@ -1,0 +1,17 @@
+{
+    "State": "KS",
+    "Average Number of Cases": 806.1607629427793,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201123,
+        "Cases": 7526
+    },
+    "Last Day with No Positive Cases": 20210307,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "November 2020",
+        "Cases": 72265
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 428
+    }
+}

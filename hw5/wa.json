@@ -1,0 +1,17 @@
+{
+    "State": "WA",
+    "Average Number of Cases": 820.3142857142857,
+    "Date with Highest Number of New Cases": {
+        "Date": 20210104,
+        "Cases": 8644
+    },
+    "Last Day with No Positive Cases": 20210301,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "January 2021",
+        "Cases": 69267
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "January 2020",
+        "Cases": 2
+    }
+}

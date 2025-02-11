@@ -1,0 +1,17 @@
+{
+    "State": "ID",
+    "Average Number of Cases": 472.4890710382514,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201210,
+        "Cases": 2298
+    },
+    "Last Day with No Positive Cases": 20210301,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "December 2020",
+        "Cases": 39380
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 414
+    }
+}

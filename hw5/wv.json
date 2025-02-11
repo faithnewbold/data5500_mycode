@@ -1,0 +1,17 @@
+{
+    "State": "WV",
+    "Average Number of Cases": 363.61035422343326,
+    "Date with Highest Number of New Cases": {
+        "Date": 20210101,
+        "Cases": 2486
+    },
+    "Last Day with No Positive Cases": 20200317,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "December 2020",
+        "Cases": 37492
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 162
+    }
+}

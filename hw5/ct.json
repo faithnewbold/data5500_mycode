@@ -1,0 +1,17 @@
+{
+    "State": "CT",
+    "Average Number of Cases": 764.9597855227883,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201228,
+        "Cases": 8457
+    },
+    "Last Day with No Positive Cases": 20210307,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "December 2020",
+        "Cases": 68413
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "February 2020",
+        "Cases": 0
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "State": "TN",
+    "Average Number of Cases": 2125.5570652173915,
+    "Date with Highest Number of New Cases": {
+        "Date": 20210102,
+        "Cases": 17330
+    },
+    "Last Day with No Positive Cases": 20210307,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "December 2020",
+        "Cases": 212309
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 2238
+    }
+}

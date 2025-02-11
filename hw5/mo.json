@@ -1,0 +1,17 @@
+{
+    "State": "MO",
+    "Average Number of Cases": 1313.2322404371585,
+    "Date with Highest Number of New Cases": {
+        "Date": 20201114,
+        "Cases": 6346
+    },
+    "Last Day with No Positive Cases": 20201013,
+    "Month and Year with Highest Number of New Cases": {
+        "Month and Year": "November 2020",
+        "Cases": 116576
+    },
+    "Month and Year with Lowest Number of New Cases": {
+        "Month and Year": "March 2020",
+        "Cases": 1327
+    }
+}
