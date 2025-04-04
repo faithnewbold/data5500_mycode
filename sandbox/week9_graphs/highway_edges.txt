@@ -1,0 +1,20 @@
+t,lg,25 #node from, node to, and then path
+lg,t,25
+lg,av,45
+av,lg,45
+lg,bc,30
+bc,lg,30
+t,bc,10
+bc,t,10
+av,og,20
+og,av,20
+bc,og,15
+og,bc,15
+og,slc,40
+slc,og,40
+slc,pv,40
+pv,slc,40
+slc,stg,300
+stg,slc,300
+pv,stg,180
+stg,pv,180
