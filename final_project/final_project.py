@@ -16,7 +16,7 @@ def initial_data_pull(ticker):
     
     lines = []
     
-    with open("/home/ubuntu/data5500_mycode/final_project/" +ticker+ ".csv", "w") as file:
+    with open("/home/ubuntu/data5500_mycode/final_project/data" +ticker+ ".csv", "w") as file:
     
         for date in data["Time Series (Daily)"].keys():
             lines.append(date+", "+data["Time Series (Daily)"][date]["4. close"] +"\n")
@@ -31,14 +31,14 @@ def append_data(ticker):
     data = json.loads(response.text)
 
     #needs to check the date from the API file
-    with open("/home/ubuntu/data5500_mycode/final_project/" +ticker+ ".csv") as csv_file:
+    with open("/home/ubuntu/data5500_mycode/final_project/data" +ticker+ ".csv") as csv_file:
         csv_lines = csv_file.readlines()
         last_day = csv_lines[-1].split(",")[0]
         
     #compare data from the API and csv file
     new_lines = []
     
-    with open("/home/ubuntu/data5500_mycode/final_project/" +ticker+ ".csv", "a") as file:
+    with open("/home/ubuntu/data5500_mycode/final_project/data" +ticker+ ".csv", "a") as file:
     
         for date in data["Time Series (Daily)"].keys():
             if date == last_day:
